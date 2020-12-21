@@ -3,7 +3,7 @@ A Cursive Handwriting Dataset with 62 classes cursive handwriting letters, "0-9,
 each class at least have 40 pictures,the data is still updating
 
 
-![](1.png)                            ![](2.png)
+![](1.png)                            ![](2.png)\
 Original data examples                Binary data examples
 
 Data mostly comes form Professor Tom's own handwritting and partly from CEDAR free handwriting pages.
