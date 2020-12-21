@@ -29,7 +29,7 @@ CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html
 ```reStructuredText
 data_preprocessing
  |
- +--+
+ +--+v0.2
  |  |
  |  +---
  |
