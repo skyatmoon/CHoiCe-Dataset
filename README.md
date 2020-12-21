@@ -14,16 +14,11 @@ Thanks to:
 * Prof. Tom Gedeon  tom@cs.anu.edu.au
 * CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html 
 
-## Title in Head-2
+## Data set browsing
 
 *<u>"description about the project"</u>*
 
-
-
-## Sub-section 1 in Head-2 
-
-*<u>"description about the sub-section1; if  additional files need to be downloaded, it should be included here"</u>*
-
+#### Data statistics
 
 
 #### File Sturcture
