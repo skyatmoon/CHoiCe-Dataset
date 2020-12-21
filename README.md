@@ -27,13 +27,26 @@ CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html
 *<u>"use follwing template or '[tree](https://www.tecmint.com/linux-tree-command-examples/)' command in linux"</u>*
 
 ```reStructuredText
-data_preprocessing
+the project
  |
- +--+v0.2
+ +--+v0.2    #include all data in the dataset, youcan see each .png data on the page
  |  |
- |  +---
- |
- +--
+ |  +---data  #include all general rgb data
+ |  |  |
+ |  |  |
+ |  |  +---data (1)  # class "0"
+ |  |  …                 # the whole 62 classes of the data set, 0-9, a-z,A-Z
+ |  |  |
+ |  |  +---data (62)  # class "Z"
+ |  +---data-bin  # include all binary data of their rgb origin
+ |  |  |
+ |  |  |
+ |  |  +---data (1)
+ |  |  …
+ |  |  |
+ |  |  +---data (62)
+ |  +---label.txt   # labels from "data (1)" to "data (62)"
+ +--v0.2.zip  # the .zip file for the whole dataset
 ```
 
 
