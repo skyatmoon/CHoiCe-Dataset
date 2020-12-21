@@ -12,8 +12,8 @@ in V0.2/dada is the 28 x 28 original handwriting letters\
 in V0.2/data-bin is the 28 x 28 binary handwriting letters
 
 Thanks to:\
-Prof. Tom Gedeon  tom@cs.anu.edu.au\
-CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html 
+* Prof. Tom Gedeon  tom@cs.anu.edu.au\
+* CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html 
 
 ## Title in Head-2
 
