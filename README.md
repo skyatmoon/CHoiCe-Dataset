@@ -123,4 +123,4 @@ Use the following bibtex for citing the paper:
 
 ```
 
-![](1.png)
+![](1.png)          ![](2.png)
