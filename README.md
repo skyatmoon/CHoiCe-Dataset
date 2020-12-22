@@ -21,6 +21,8 @@ Thanks to:
 #### Data statistics
 
 
+![](3.png) 
+
 #### File Sturcture
 
 *<u>"use follwing template or '[tree](https://www.tecmint.com/linux-tree-command-examples/)' command in linux"</u>*
