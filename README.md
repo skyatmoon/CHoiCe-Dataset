@@ -16,7 +16,7 @@ Thanks to:
 
 ## Data set browsing
 
-*<u>"description about the project"</u>*
+*<u>"The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset. The data format is a 28x28 ".png" format picture."</u>*
 
 #### Data statistics
 
