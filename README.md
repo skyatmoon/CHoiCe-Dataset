@@ -23,9 +23,11 @@ Thanks to:
 
 ![](3.png) 
 
+The number of data in each category in the dataset is counted, and the number of "raw data" and "binarized data" are the same. The number of data in each category will not be less than 40.
+
 #### File Sturcture
 
-*<u>"use follwing template or '[tree](https://www.tecmint.com/linux-tree-command-examples/)' command in linux"</u>*
+*<u>"The file structure is looking as follows. Feel free to find what you want in the data set."</u>*
 
 ```reStructuredText
 the project
@@ -53,9 +55,9 @@ the project
 
 ------
 
-### Cite the Paper
+### Cite this Dataset
 
-Use the following bibtex for citing the paper: 
+Use the following bibtex for citing the dataset: 
 
 ```reStructuredText
 @...
