@@ -16,7 +16,7 @@ Thanks to:
 
 ## Data set browsing
 
-*<u>"The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset. The data format is a 28x28 ".png" format picture."</u>*
+*<u>"The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset. The data format is a 28x28 ".png" format picture. The data set has a total of sixty-two categories of 0-9, a-z and A-Z, corresponding to the files "data (1)" to "data (62)" in the order of "label.txt". The data set is divided into two parts, the unprocessed original data image is stored in the "data (1)" to "data (62)" in the "V0.2/data" folder, and the binarized data image Stored in "data (1)" to "data (62)" in the "V0.2/data-bin" folder."</u>*
 
 #### Data statistics
 
