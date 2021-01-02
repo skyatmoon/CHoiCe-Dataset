@@ -8,9 +8,6 @@ Here are Original data examples     and           Binary data examples:\
 
 Data mostly comes form Professor Tom's own handwritting and partly from CEDAR free handwriting pages.
 
-in V0.3/dada is the 28 x 28 original handwriting letters
-in V0.3/data-bin is the 28 x 28 binary handwriting letters
-
 Dataset Builder:
 Hongming Zhang: Hongming-Zhang@outlook.com
 
@@ -28,6 +25,11 @@ The number of data in each category in the dataset is counted, and the number of
 #### Dataset Sturcture
 
 *<u>"The data format is a 28x28 ".png" format picture. The data set has a total of 62 categories of 0-9, a-z and A-Z, corresponding to the files "0" to "61" in the order of "label.txt". The data set is divided into two parts, the unprocessed original data image is stored in the "0" to "61" in the "V0.3/data" folder, and the binarized data image Stored in "0" to "61" in the "V0.3/data-bin" folder."</u>*
+
+
+in V0.3/dada is the 28 x 28 original handwriting letters
+in V0.3/data-bin is the 28 x 28 binary handwriting letters
+
 
 *<u>"The file structure is looking as follows. Feel free to find what you want in the data set."</u>*
 
