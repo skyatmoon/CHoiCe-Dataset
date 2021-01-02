@@ -1,4 +1,5 @@
 # Cursive-Handwriting-Dataset
+The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset.
 A Cursive Handwriting Dataset with 62 classes cursive handwriting letters, "0-9, a-z, A-Z",\
 each class at least have 40 pictures,the data is still updating
 
@@ -10,8 +11,11 @@ Data mostly comes form Professor Tom's own handwritting and partly from CEDAR fr
 in V0.3/dada is the 28 x 28 original handwriting letters
 in V0.3/data-bin is the 28 x 28 binary handwriting letters
 
+Dataset Builder:
+Hongming Zhang: Hongming-Zhang@outlook.com
+
 Thanks to:
-* Prof. Tom Gedeon  tom@cs.anu.edu.au
+* Prof. Tom Gedeon:  tom@cs.anu.edu.au
 * CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html 
 
 #### Data statistics
@@ -23,7 +27,7 @@ The number of data in each category in the dataset is counted, and the number of
 
 #### Dataset Sturcture
 
-*<u>"The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset. The data format is a 28x28 ".png" format picture. The data set has a total of sixty-two categories of 0-9, a-z and A-Z, corresponding to the files "data (1)" to "data (62)" in the order of "label.txt". The data set is divided into two parts, the unprocessed original data image is stored in the "data (1)" to "data (62)" in the "V0.2/data" folder, and the binarized data image Stored in "data (1)" to "data (62)" in the "V0.2/data-bin" folder."</u>*
+*<u>"The data format is a 28x28 ".png" format picture. The data set has a total of 62 categories of 0-9, a-z and A-Z, corresponding to the files "0" to "61" in the order of "label.txt". The data set is divided into two parts, the unprocessed original data image is stored in the "0" to "61" in the "V0.3/data" folder, and the binarized data image Stored in "0" to "61" in the "V0.3/data-bin" folder."</u>*
 
 *<u>"The file structure is looking as follows. Feel free to find what you want in the data set."</u>*
 
