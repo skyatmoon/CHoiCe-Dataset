@@ -3,8 +3,8 @@
 
 The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset.
 A Cursive Handwriting Dataset with 62 classes cursive handwriting letters, "0-9, a-z, A-Z",\
-each class in both the original data and the binary data at least have 40 pictures.\ 
-The data is still updating
+each class in both the original data and the binary data at least have 40 pictures.
+###### The data is still updating
 
 Here are Original data examples     and           Binary data examples:\
 ![](1.png)                            ![](2.png)
