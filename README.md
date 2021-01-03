@@ -1,5 +1,8 @@
 # Cursive-Handwriting-Dataset
 
+Today’s free handwriting data sets on the market are too specific and the writing is too standard. It is difficult to train a universal handwriting recognition model based on these data. In the face of multiple styles and informal writing, deep learning models trained on data sets such as MNIST and EMNIST will not be effective.
+
+
 
 The data of the dataset is collected from Professor Tom Gedeon and the complete handwriting paper of the CEDAR handwriting dataset.
 A Cursive Handwriting Dataset with 62 classes cursive handwriting letters, "0-9, a-z, A-Z",\
