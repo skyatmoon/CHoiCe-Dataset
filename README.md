@@ -19,11 +19,11 @@ Thanks to:
 * CEDAR dataset: https://cedar.buffalo.edu/handwriting/HRdatabase.html 
 
 ### Data statistics
-
+*<u>"The number of data in each category in the dataset is counted, and the number of "raw data" and "binarized data" are the same. The number of data in each category will not be less than 40."</u>*
 
 ![](3.png) 
 
-The number of data in each category in the dataset is counted, and the number of "raw data" and "binarized data" are the same. The number of data in each category will not be less than 40.
+
 
 ### Dataset Sturcture
 
