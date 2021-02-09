@@ -1,4 +1,4 @@
-# Cursive-Handwriting-Dataset
+# A good CHoiCe: A Complex HandwrittenCharacter dataset
 
 Today’s free handwriting data sets on the market are too specific and the writing is too standard. It is difficult to train a universal handwriting recognition model based on these data. In the face of multiple styles and informal writing, deep learning models trained on data sets such as MNIST and EMNIST will not be effective. In the NIST series of data sets, you don’t have to face the lack of feature writing caused by even pen and cursive, nor will it appear in a bounding box with some other letters in the background of the strokes, let alone the same letter Huge style difference. However, these are practical problems that need to be faced in practical applications.Therefore, I hope to build a data set using letters in complex handwritten text as data, so that using this data set can more easily train a more universal handwritten text recognition model.
 
