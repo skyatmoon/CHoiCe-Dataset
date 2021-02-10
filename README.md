@@ -74,6 +74,11 @@ the project
 Use the following bibtex for citing the dataset: 
 
 ```reStructuredText
-@...
+@article{CHoiCe Dataset,
+  author = "Hongming Zhang, Tom Gedeon, Sabrina Caldwell, Tom Gedeon & Josephine Plested",
+  year = 2021,
+  title = "A good CHoiCe: A Complex Handwritten Character dataset",
+  doi = {10.25911/602355a95f787},
+  url = {https://dx.doi.org/10.25911/602355a95f787}
 
 ```
